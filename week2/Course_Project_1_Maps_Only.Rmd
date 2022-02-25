@@ -1,7 +1,7 @@
 ---
-title: 'In Brief - Interactive Maps of Major US Storms: 1996 - 2011'
-author: "Mark Blackmore"
-date: "August 16, 2017"
+title: 'Interactive Maps of Major US Storms'
+author: "Hisham El-Amir"
+date: "Jan 16, 2022"
 output: 
   html_document:
     keep_md: TRUE
